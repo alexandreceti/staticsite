@@ -1,7 +1,7 @@
-#Curso/Oferta: Arquitetura de Software Distribuído – Oferta 10 - Atividade Aula 03 
+Curso/Oferta: Arquitetura de Software Distribuído – Oferta 10 - Atividade Aula 03 
 
-##Disciplina: Arquitetura de FrontEnd 
+Disciplina: Arquitetura de FrontEnd 
 
-*Professor: Rommel Carneiro  
+Professor: Rommel Carneiro  
 
-*Alunos: Alexandre Cunha Cruz Oliveira . 
+Alunos: Alexandre Cunha Cruz Oliveira . 
